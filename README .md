@@ -121,7 +121,7 @@ I confirm that this work is my own. I carried out every step on my own Oracle en
 
 - Student name:umwariwase ineza ange
 - Student ID: 28278
-- GitHub repository: https://github.com/[your-username]/oracle_pdb_ass_II_28278_umwariwase
+- GitHub repository: (https://github.com/UmwariwaseInezaAnge/oracle_pdb_ass_II_28278_Umwariwase.git)
 
  7. Repository Structure
 
